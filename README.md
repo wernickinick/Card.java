@@ -1,5 +1,5 @@
-**A virtual Business Card**
-\nClick on any button Get the information you need!
+**A virtual Business Card**\n
+\Click on any button Get the information you need!
 \nClick on LinkedIn and get redirected to Your Profile
 
 ![Screenshot 2025-03-13 at 11 01 17 PM](https://github.com/user-attachments/assets/26ad5a2b-32ac-44c6-8df0-1a00b26b5b25)
